@@ -1,4 +1,4 @@
-# Amazon Operations Suite：32 技能新手使用手册
+# Amazon Operations Suite：32 个技能新手使用手册
 
 开发者：不见山谷  
 网站：[https://ainexa.us/](https://ainexa.us/)  

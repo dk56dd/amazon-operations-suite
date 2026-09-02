@@ -20,7 +20,7 @@ $amazon-listing-alexa-writer
 根据上传的数据生成美国站上周运营周报，并与此前四周比较。
 ```
 
-完整说明见仓库根目录的 `docs/32技能新手使用手册.md`。
+完整说明见仓库根目录的 `docs/skill-guide-zh-CN.md`。
 
 ## 数据连接
 

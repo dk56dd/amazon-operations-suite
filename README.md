@@ -13,7 +13,7 @@ Codex + WorkBuddy 双平台亚马逊运营插件，一次安装即可使用 32 �
 
 覆盖市场研究、评论痛点、竞品、差异化、利润成本、FBA 包装、合规、供应链、新品预算、销售计划、发补货、ABA、Listing、关键词、SP 广告、退货以及运营日报、周报和月报。
 
-完整的 32 项用途、准备数据、调用示例和避坑提示见：[32 技能新手使用手册](docs/32技能新手使用手册.md)。
+完整的 32 项用途、准备数据、调用示例和避坑提示见：[32 技能新手使用手册](docs/skill-guide-zh-CN.md)。
 
 ## 安装到 Codex
 
@@ -85,7 +85,7 @@ GitHub 仓库已经设为 Public。任何人都可以查看、克隆并按上面
 .
 ├── .agents/plugins/marketplace.json               # Codex 市场清单
 ├── .codebuddy-plugin/marketplace.json              # WorkBuddy 市场清单
-├── docs/32技能新手使用手册.md
+├── docs/skill-guide-zh-CN.md
 ├── plugins/amazon-operations-suite/
 │   ├── .codex-plugin/plugin.json                   # Codex 插件清单
 │   ├── .codebuddy-plugin/plugin.json               # WorkBuddy 插件清单
