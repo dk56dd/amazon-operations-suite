@@ -1,0 +1,16 @@
+{
+  "name": "ainexa-amazon-tools",
+  "owner": {
+    "name": "不见山谷"
+  },
+  "description": "面向亚马逊卖家的选品、Listing、广告和运营分析插件市场。",
+  "version": "1.1.0",
+  "plugins": [
+    {
+      "name": "amazon-operations-suite",
+      "source": "./plugins/amazon-operations-suite",
+      "description": "内置32个亚马逊选品、Listing、广告、运营、供应链与经营分析技能。",
+      "version": "1.1.0"
+    }
+  ]
+}

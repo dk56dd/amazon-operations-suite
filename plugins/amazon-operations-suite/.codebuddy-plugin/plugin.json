@@ -1,0 +1,19 @@
+{
+  "name": "amazon-operations-suite",
+  "version": "1.1.0",
+  "description": "内置32个亚马逊选品、Listing、广告、运营、供应链与经营分析技能。",
+  "author": {
+    "name": "不见山谷",
+    "url": "https://ainexa.us/"
+  },
+  "homepage": "https://ainexa.us/",
+  "keywords": [
+    "amazon",
+    "ecommerce",
+    "listing",
+    "advertising",
+    "operations"
+  ],
+  "skills": "./skills/",
+  "defaultEnabled": true
+}

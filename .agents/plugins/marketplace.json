@@ -1,0 +1,20 @@
+{
+  "name": "ainexa-amazon-tools",
+  "interface": {
+    "displayName": "AINexa Amazon Tools"
+  },
+  "plugins": [
+    {
+      "name": "amazon-operations-suite",
+      "source": {
+        "source": "local",
+        "path": "./plugins/amazon-operations-suite"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Business"
+    }
+  ]
+}

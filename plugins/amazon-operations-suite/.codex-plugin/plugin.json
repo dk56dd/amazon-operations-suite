@@ -1,0 +1,37 @@
+{
+  "name": "amazon-operations-suite",
+  "version": "1.1.0",
+  "description": "内置32个亚马逊选品、Listing、广告、运营、供应链与经营分析技能。",
+  "author": {
+    "name": "不见山谷",
+    "url": "https://ainexa.us/"
+  },
+  "homepage": "https://ainexa.us/",
+  "keywords": [
+    "amazon",
+    "ecommerce",
+    "listing",
+    "advertising",
+    "operations"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "亚马逊运营技能包",
+    "shortDescription": "32个亚马逊选品、广告、Listing与运营分析技能。",
+    "longDescription": "覆盖市场机会、竞品、评论痛点、利润成本、合规、供应链、Listing、关键词、广告诊断、补货、退货以及运营日报、周报和月报。需要外部经营数据的技能支持上传报告，或在单独配置相关MCP后读取数据。",
+    "developerName": "不见山谷",
+    "category": "Business",
+    "capabilities": [
+      "交互式分析",
+      "中文报告",
+      "文案生成",
+      "数据诊断"
+    ],
+    "websiteURL": "https://ainexa.us/",
+    "defaultPrompt": [
+      "用评论痛点挖掘技能分析我上传的评论文件。",
+      "按亚马逊7月新政重写这个Listing。",
+      "根据业务、广告和库存报告生成运营周报。"
+    ]
+  }
+}
