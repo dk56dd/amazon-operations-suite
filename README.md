@@ -68,9 +68,9 @@ WorkBuddy 中可以通过自然语言自动匹配，也可以手动输入 `/技�
 /amazon-daily-operations-report 根据附件生成运营日报。
 ```
 
-## 仓库为私有时
+## 公开安装
 
-当前 GitHub 仓库默认设为私有。安装端需要已登录并有权访问 `dk56dd/amazon-operations-suite`。如果要分享给没有仓库权限的人，可以发送本地 ZIP；或者确认内容可公开后再把仓库改为 Public。
+GitHub 仓库已经设为 Public。任何人都可以查看、克隆并按上面的命令安装，无需成为仓库协作者。需要离线分发时，也可以直接使用 Release 或本地提供的 ZIP 安装包。
 
 ## 数据与权限说明
 
